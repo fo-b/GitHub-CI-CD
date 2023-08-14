@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 2.1 What is Actions
+title: 2.3 What is Actions
 parent: 2. GitHub Pages
 nav_order: 2
 ---
