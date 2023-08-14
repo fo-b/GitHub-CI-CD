@@ -3,3 +3,5 @@ description: It does actually work, trust me
 theme: just-the-docs
 
 url: https://just-the-docs.github.io
+
+footer_content: "Copyright &copy; 2023 Fabio Beti."
