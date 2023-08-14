@@ -2,7 +2,7 @@
 layout: default
 title: 2.2 What is Jekyll
 parent: 2. GitHub Pages
-nav_order: 1
+nav_order: 2
 ---
 
 # 2.2 What is Jekyll?
