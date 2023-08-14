@@ -2,7 +2,7 @@
 layout: default
 title: 2.3 What is Actions
 parent: 2. GitHub Pages
-nav_order: 2
+nav_order: 3
 ---
 
 # 2.3 What is GitHub Actions?
